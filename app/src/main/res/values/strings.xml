@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lovely Application</string>
+    <string-array name="example_name">
+        <item>Bangalore</item>
+        <item>Kolkata</item>
+        <item>Hydrabad</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+    </string-array>
+</resources>
